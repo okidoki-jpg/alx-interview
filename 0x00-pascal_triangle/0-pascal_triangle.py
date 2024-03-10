@@ -1,12 +1,20 @@
 #!/usr/bin/python3
 """
-Pascal Triangle
+Module Doc: pascal_triangle
+Calculate pascal triangle given int: n
+
+Attributes:
+	n (int): input value
+
+Return:
+	2D array
 """
 
+
 def pascal_triangle(n):
-	"""
-	Pascal Triangle Function
-	"""
+    """
+    Pascal Triangle Function
+    """
 
     if n <= 0:
         return []
