@@ -4,10 +4,10 @@ Module Doc: pascal_triangle
 Calculate pascal triangle given int: n
 
 Attributes:
-	n (int): input value
+    n (int): input value
 
 Return:
-	2D array
+    2D array
 """
 
 
