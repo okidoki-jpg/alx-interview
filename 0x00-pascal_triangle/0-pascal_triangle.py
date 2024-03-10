@@ -1,6 +1,13 @@
 #!/usr/bin/python3
+"""
+Pascal Triangle
+"""
 
 def pascal_triangle(n):
+	"""
+	Pascal Triangle Function
+	"""
+
     if n <= 0:
         return []
 
